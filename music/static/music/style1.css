@@ -1,0 +1,31 @@
+body{
+    background:url("images/jj.jpg") fixed center no-repeat;
+
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand
+{
+    font-family: 'Satisfy', cursive;
+}
+
+.col-md-4
+{
+    float: left;
+}
+
+footer
+{
+    margin-top: 800px;
+    position: fixed;
+    margin-left: 35%;
+}
+
+.foot
+{
+    margin-top: 800px;
+    margin-left: 35%;
+}
